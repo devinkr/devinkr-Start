@@ -1,7 +1,7 @@
 /**
  * Welcome to your first lab! This lab will identify all the different entities that you'll be creating and
  * manipulating in your code. It is purely informational, and you do NOT need to write or change anything in this
- * lab. The test cases for this lab will pass from the start.
+ * lab. The test cases for this lab will pass from the very start.
  *
  * Java is a tricky language to learn, because performing even simple tasks can require the use of many keywords
  * and concepts which you may be unfamiliar with. Don't worry about memorizing everything here - the concepts will
